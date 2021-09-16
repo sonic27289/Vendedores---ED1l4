@@ -1,0 +1,13 @@
+E:\Projetos\ED1l4\ED1l4\obj\Debug\netcoreapp3.1\ED1l4.csprojAssemblyReference.cache
+E:\Projetos\ED1l4\ED1l4\obj\Debug\netcoreapp3.1\ED1l4.AssemblyInfoInputs.cache
+E:\Projetos\ED1l4\ED1l4\obj\Debug\netcoreapp3.1\ED1l4.AssemblyInfo.cs
+E:\Projetos\ED1l4\ED1l4\obj\Debug\netcoreapp3.1\ED1l4.csproj.CoreCompileInputs.cache
+E:\Projetos\ED1l4\ED1l4\bin\Debug\netcoreapp3.1\ED1l4.exe
+E:\Projetos\ED1l4\ED1l4\bin\Debug\netcoreapp3.1\ED1l4.deps.json
+E:\Projetos\ED1l4\ED1l4\bin\Debug\netcoreapp3.1\ED1l4.runtimeconfig.json
+E:\Projetos\ED1l4\ED1l4\bin\Debug\netcoreapp3.1\ED1l4.runtimeconfig.dev.json
+E:\Projetos\ED1l4\ED1l4\bin\Debug\netcoreapp3.1\ED1l4.dll
+E:\Projetos\ED1l4\ED1l4\bin\Debug\netcoreapp3.1\ED1l4.pdb
+E:\Projetos\ED1l4\ED1l4\obj\Debug\netcoreapp3.1\ED1l4.dll
+E:\Projetos\ED1l4\ED1l4\obj\Debug\netcoreapp3.1\ED1l4.pdb
+E:\Projetos\ED1l4\ED1l4\obj\Debug\netcoreapp3.1\ED1l4.genruntimeconfig.cache
